@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milan Debnath</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h3 align="center">“Make it work, make it right, make it fast.”</h3>
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/milan__debnath?logo=twitter&style=for-the-badge">
 
